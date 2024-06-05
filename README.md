@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Martial Charts</h1>
 
-## Getting Started
+<h2>Description</h2>
+A NextJS web application combining a fullstack platform for measuring and analysing workouts, and a stylish frontend website demonstrating Martial Charts (the platform) as a brand, with dynamic animations using Framer motion.
 
-First, run the development server:
+<h2>Purpose Purpose and Goal</h2>
+The goal of this project was twofold. The first was to create a fullstack platform capable of measuring workouts, providing in-depth analysis, and allowing workouts to be saved on a database. The second was express the platforms brand and ethos in the form of a stylish frontend landing page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>Webstack and Explanation</h2>
+NextJS, React, Framer Motion, TailwindCSS
+This is a fullstack NextJS project that implements ... for connecting to external arduino devices, CRUD methods for saving and viewing workouts, and framer motion for animations. The website was was designed in figma, and brought to life using framer motion animations. Many framer motion principles were implemented to create a dynamic interface.
+<p></p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![martialcharts-markup](https://github.com/thecodingrunner/martial-charts/assets/22331070/af705bf1-f38a-41eb-99e3-8058badfda27)
